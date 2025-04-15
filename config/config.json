@@ -1,0 +1,27 @@
+{
+    "MidiReading": {
+        "AutoPlay": false,
+        "DefaultTempo": 99,
+        "ShowTrackInfo": true
+    },
+    "Update": {
+        "CheckUpdateAtStartUp": true
+    },
+    "Folders": {
+        "SaveFolder": "D:/Python_Project/mid-reader/output",
+        "LocalMidi": [
+            "D:/Synthesizer V Studio Pro/填词模板-極楽浄土/midi-reader"
+        ]
+    },
+    "MainWindow": {
+        "DpiScale": 1.75,
+        "EnableAcrylicBackground": false,
+        "Language": "zh_CN",
+        "MinimizeToTray": true,
+        "PlayBarColor": "#ff225c7f"
+    },
+    "QFluentWidgets": {
+        "ThemeColor": "#ff009faa",
+        "ThemeMode": "Light"
+    }
+}

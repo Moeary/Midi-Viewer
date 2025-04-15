@@ -1,0 +1,5 @@
+mido>=1.2.10
+python-rtmidi>=1.4.9
+PyQt5>=5.15.0
+PyQt5-sip>=12.8.0
+qfluentwidgets>=1.0.0
