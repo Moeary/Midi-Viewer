@@ -16,7 +16,7 @@
     "MainWindow": {
         "DpiScale": 1.75,
         "EnableAcrylicBackground": false,
-        "Language": "zh_CN",
+        "Language": "en_US",
         "MinimizeToTray": true,
         "PlayBarColor": "#ff225c7f"
     },
